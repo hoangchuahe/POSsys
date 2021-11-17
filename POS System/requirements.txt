@@ -1,0 +1,4 @@
+Flask~=2.0
+Flask-Login~=0.5
+Flask-WTF~=0.15
+email-validator~=1.1
